@@ -24,12 +24,12 @@ Semester: Fall 2023
 
 
 ## Question 4
-| Command | What it does                                                                                                                                                                  |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| echo    | Displays a line of text                                                                                                                                                       |
-| fortune | Prints a random, hopefully interesting, adage or epigram                                                                                                                      |
-| cowsay  | Generates an ASCII picture of a cow saying something provided by the user                                                                                                     |
+| Command | What it does                                                                                                                                                                 |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| echo    | Displays a line of text.                                                                                                                                                     |
+| fortune | Prints a random, hopefully interesting, adage or epigram .                                                                                                                   |
+| cowsay  | Generates an ASCII picture of a cow saying something provided by the user.                                                                                                   |
 | lolcat  | A program that concatenates files, or standard input, to standard output, and adds rainbow coloring to it.                                                                   |
-| figlet  | Display large characters made up of ordinary screen characters                                                                                                                |
-| toilet  | Displays large colorful     characters                                                                                                                                        |
+| figlet  | Display large characters made up of ordinary screen characters.                                                                                                              |
+| toilet  | Displays large colorful     characters.                                                                                                                                      |
 | rig     | A utility  that  will piece together a random first name, last name, street number and address, along with a geographically consistant city, state, ZIP code, and area code. |
