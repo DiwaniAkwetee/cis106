@@ -98,5 +98,3 @@ IP address: 192.168.2.211
 ## Deliverable 2 Result
 
 ![lpd2_result](lpd2_result.png)<br>
-
-
