@@ -14,3 +14,9 @@ Semester: Fall 2023
 
 ## Screenshot 3
 ![](lab8_3.png)<br>
+
+https://github.com/DiwaniAkwetee/cis106/blob/main/Labs/Lab8/linux.md
+
+https://github.com/DiwaniAkwetee/cis106/blob/main/Labs/Lab8/linux%2Bother.md 
+
+https://github.com/DiwaniAkwetee/cis106/blob/main/Labs/Lab8/GNU%2BLinux.md
